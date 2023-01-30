@@ -1,16 +1,8 @@
 # intro_screen
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/121868653/215408003-c4815a40-af4f-4bba-a950-dda1d3676550.jpg" width="250px">
+<img src="https://user-images.githubusercontent.com/121868653/215408051-986dcd68-7d1a-4949-8f8f-3e68aae4f11a.jpg" width="250px">
+<img src="https://user-images.githubusercontent.com/121868653/215408089-78c0c6dc-2e27-47b1-a71f-9931bc523fa5.jpg" width="250px">
+<img src="https://user-images.githubusercontent.com/121868653/215408118-69b74863-ae95-4914-ad46-4746d05dc054.jpg" width="250px">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
